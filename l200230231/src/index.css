@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahan kecil untuk body: gunakan CSS langsung untuk menghindari error @apply */
+body {
+  background-color: #16a34a; /* green-600 */
+}
