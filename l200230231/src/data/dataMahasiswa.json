@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "nama": "Viery Brian Fernanda",
+    "nim": "L200230231",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "lokasi": "Karanganyar, Jawa Tengah",
+    "bio": "Mahasiswa dengan ketertarikan pada pengembangan web, animasi dan teknologi digital.",
+       "foto": "src/assets/profil_saya.jpg",
+    "portfolio": "https://portfolio-viery.example"
+  },
+  "skills": [
+    { "nama": "ReactJS", "level": "Intermediate", "percent": 80, "tahun": 1 },
+    { "nama": "Tailwind CSS", "level": "Intermediate", "percent": 75, "tahun": 1 },
+    { "nama": "JavaScript", "level": "Intermediate", "percent": 70, "tahun": 1 }
+  ],
+  "experiences": [
+    {
+      "judul": "Web Developer (Project)",
+      "instansi": "Freelance Project",
+      "periode": "Sep 2024 - Present",
+      "deskripsi": "Membangun website portofolio responsif menggunakan React dan Tailwind.",
+      "tags": ["ReactJS", "Tailwind CSS", "JavaScript"],
+      "type": "project"
+    },
+    {
+      "judul": "Panitia IT Event",
+      "instansi": "Himpunan Mahasiswa Informatika",
+      "periode": "Jan 2024 - Jun 2024",
+      "deskripsi": "Bertanggung jawab pada divisi publikasi dan dokumentasi berbasis web.",
+      "tags": ["Organization", "Teamwork"],
+      "type": "organization"
+    },
+    {
+      "judul": "Unity Animation (Project)",
+      "instansi": "Freelance Project",
+      "periode": "Feb 2024 - May 2024",
+      "deskripsi": "Membuat scaner foto untuk menampilkan bentuk 3d suatu produk.",
+      "tags": ["Unity hub", "Object 3D"],
+      "type": "project"
+    }
+  ]
+}
