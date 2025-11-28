@@ -17,6 +17,11 @@ Setelah proses instalasi selesai, jalankan aplikasi menggunakan perintah npm sta
 Buka browser kemudian akses alamat http://localhost:3000 untuk melihat aplikasi berjalan.
 
 Jika ingin melakukan deployment, jalankan perintah npm run build untuk menghasilkan folder build yang siap diunggah ke layanan hosting seperti Vercel atau Netlify.
+
+Link Deployment
+
+https://cv-viery-001.vercel.app/
+
 ## Screenshot Aplikasi
 
 ### Screenshot 1
